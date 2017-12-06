@@ -20,6 +20,6 @@
 		"scripts": ["event.js"]
 	},
 
-	"permissions": ["activeTab"],
+	"permissions": ["activeTab", "storage"],
 	"web_accessible_resources": ["template.html"]
 }
